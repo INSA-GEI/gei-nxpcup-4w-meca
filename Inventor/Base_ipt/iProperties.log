@@ -1,0 +1,46 @@
+Design Tracking Control:
+ 13 -                NextVersion: '5'
+ 14 -             CurrentVersion: '4'
+ 15 -            PreviousVersion: '3'
+ 16 -                LastSavedBy: 'Sébastien DI MERCURIO'
+ 17 -              LastSavedDate: 2019/07/31 07:51:37.887060
+ 18 -                         18: A8E878D3-49EF-5631-5D89-DE82802611AF
+ 21 -                         21: 8D78932D-4757-4245-EDE6-11860AE1A901
+ 22 -               BuildVersion: 230136000
+
+Design Tracking Properties:
+  4 -               CreationDate: 2019/07/29 14:58:49.172000
+  5 -                 PartNumber: 'Base'
+ 20 -                   Material: 'Résine phénolique'
+ 21 -              PartPropRevId: 557C7A08-8BEE-47C3-9F7D-5514835CCCF1
+ 31 -                 DocSubType: 4D29B490-49B2-11D0-93C3-7E0706000000
+ 32 -             DocSubTypeName: 'Modeling'
+ 40 -               DesignStatus: 1
+ 41 -                   Designer: 'Sébastien DI MERCURIO'
+ 46 -          ExternalPropRevId: 4D29B490-49B2-11D0-93C3-7E0706000000
+ 58 -                       Mass: 119.75805600000001
+ 59 -                SurfaceArea: 806.74
+ 60 -                     Volume: 86.78120000000001
+ 61 -                    Density: 1.38
+ 62 -             ValidMassProps: 17
+ 67 -            LastUpdatedWith: '2019 (Build 230136000, 136)'
+ 71 -         MaterialIdentifier: 'D:\\Users\\Public\\Documents\\Autodesk\\Inventor 2019\\Design Data\\Materials\\InventorMaterialLibrary.adsklib#1:Phenolic Resin\n#Material-121'
+ 72 -                 Appearance: 'Lisse - Noir'
+
+Inventor Document Summary Information:
+
+Inventor Summary Information:
+  4 -                     Author: 'Sébastien DI MERCURIO'
+ 17 -                  Thumbnail: PNG: 180 x 180
+
+Inventor User Defined Properties:
+
+_Private Model Information:
+  8 -                LengthUnits: 11269
+  9 -                 AngleUnits: 11279
+ 10 -                  TimeUnits: 11290
+ 11 -                  MassUnits: 11283
+ 12 -     LengthDisplayPrecision: 3
+ 13 -      AngleDisplayPrecision: 2
+ 16 -       PartActiveColorStyle: '<PartActiveColorStyle><Category>Default</Category><StyleName>Lisse - Noir</StyleName><Protein><MaterialId>Plastic-001</MaterialId><Scale>1,000000</Scale><Rotation>0,000000</Rotation></Protein></PartActiveColorStyle>'
+
